@@ -1,6 +1,6 @@
 <!--
   ══════════════════════════════════════════════════════════════════
-   TAHIR MUSHTAQ · GitHub Profile README · SYNTHWAVE EDITION
+   TAHIR MUSHTAQ · GitHub Profile README · SYNTHWAVE EDITION (RELIABLE)
    Repo path:  github.com/TahirRTM/TahirRTM  →  README.md
    Palette:  bg #1a0b2e · pink #ff6ac1 · purple #c77dff · orange #ff9e64
   ══════════════════════════════════════════════════════════════════
@@ -27,34 +27,17 @@
 <br/>
 
 <!-- ════════════════ PROFILE ════════════════ -->
-<table>
-<tr>
-<td width="62%" valign="top">
-
 ### &nbsp;`~/whoami`
 
-Cybersecurity professional working across **Digital Forensics, Penetration Testing, Threat Intelligence &amp; Network Security** — with a parallel engineering track in **Unity AR** and **AI-driven security tooling**.
-
-I build secure systems, investigate digital evidence, and train the next generation of security practitioners.
+Cybersecurity professional working across **Digital Forensics, Penetration Testing, Threat Intelligence &amp; Network Security** — with a parallel engineering track in **Unity AR** and **AI-driven security tooling**. I build secure systems, investigate digital evidence, and train the next generation of security practitioners.
 
 ```txt
 Role         →  Cybersecurity Specialist  @  NASTP
 Teaching     →  Cybersecurity Instructor  @  Bano Qabil
 Education    →  BS Computer Science (BSCS)
 Location     →  Pakistan
-Focus        →  Forensics · Pentesting · Threat Intel · SOC
+Focus        →  Digital Forensics · Penetration Testing · Threat Intelligence · SOC
 ```
-
-</td>
-<td width="38%" valign="top">
-
-### &nbsp;`~/focus`
-
-<img src="https://github-readme-stats.vercel.app/api?username=TahirRTM&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true&card_width=350&title_color=ff6ac1&icon_color=ff9e64&text_color=e0c3fc&bg_color=1a0b2e" width="100%"/>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -168,23 +151,6 @@ Focus        →  Forensics · Pentesting · Threat Intel · SOC
 
 <br/>
 
-<!-- ════════════════ ANALYTICS ════════════════ -->
-## &nbsp;`~/analytics`
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TahirRTM&hide_border=true&background=1a0b2e&stroke=7b2ff7&ring=ff6ac1&fire=ff9e64&currStreakLabel=ff6ac1&sideLabels=e0c3fc&dates=a78bcf&currStreakNum=ffffff&sideNums=ffffff" width="60%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahirRTM&layout=compact&hide_border=true&langs_count=8&title_color=ff6ac1&text_color=e0c3fc&bg_color=1a0b2e" width="42%"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-trophy.vercel.app/?username=TahirRTM&theme=algolia&no-frame=true&no-bg=true&column=3&row=2&margin-w=6&margin-h=6" width="52%"/>
-
-</div>
-
-<br/>
-
 <!-- ════════════════ ACTIVITY ════════════════ -->
 ## &nbsp;`~/activity`
 
@@ -194,7 +160,7 @@ Focus        →  Forensics · Pentesting · Threat Intel · SOC
 
 </div>
 
-<!-- Pac-Man contribution graph (needs one-time Action - see SETUP_GUIDE) -->
+<!-- Pac-Man contribution graph — auto-generated daily by GitHub Action -->
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/TahirRTM/TahirRTM/output/pacman-contribution-graph-dark.svg" width="100%" alt="pacman contribution graph"/>
